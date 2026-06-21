@@ -1,0 +1,8 @@
+{
+  "id": "angular-okf",
+  "name": "AngularJS (1.x) Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for AngularJS 1.x (digest cycle, scopes, directives, dependency injection, services, controllers)",
+  "entry": "index.md",
+  "tags": ["angular", "javascript", "spa", "legacy", "frontend"]
+}

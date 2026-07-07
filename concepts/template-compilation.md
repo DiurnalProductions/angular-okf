@@ -1,17 +1,16 @@
 ---
-id: angularjs.template_compilation
-type: concept
+type: Concept
 title: Template Compilation
-description: $compile traverses DOM and directives, transforming templates into linking functions that bind scope to elements.
+description: "$compile traverses DOM and directives, transforming templates into linking functions that bind scope to elements."
 tags: [angularjs, compile, templates, directives]
 prerequisites:
-  - angularjs.expressions
-  - angularjs.angular_module
+  - concepts/expressions
+  - concepts/angular-module
 related:
-  - angularjs.compile_vs_link
-  - angularjs.dom_linking
-  - angularjs.directive_definition_object
-resource: https://docs.angularjs.org/guide/compilation
+  - concepts/compile-vs-link
+  - concepts/dom-linking
+  - concepts/directive-definition-object
+resource: "https://docs.angularjs.org/guide/compilation"
 timestamp: 2026-01-01
 ---
 

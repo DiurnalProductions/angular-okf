@@ -1,17 +1,16 @@
 ---
-id: angularjs.async_digest_integration
-type: concept
+type: Concept
 title: Async Digest Integration
-description: How $apply, $applyAsync, $evalAsync, and $timeout bridge non-Angular async callbacks into the digest cycle.
+description: "How $apply, $applyAsync, $evalAsync, and $timeout bridge non-Angular async callbacks into the digest cycle."
 tags: [angularjs, async, digest, apply]
 prerequisites:
-  - angularjs.q_promises
-  - angularjs.digest_cycle
-  - angularjs.http_service
+  - concepts/q-promises
+  - concepts/digest-cycle
+  - concepts/http-service
 related:
-  - angularjs.binding_propagation
-  - angularjs.q_promises
-resource: https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+  - concepts/binding-propagation
+  - concepts/q-promises
+resource: "https://docs.angularjs.org/api/ng/type/$rootScope.Scope"
 timestamp: 2026-01-01
 ---
 

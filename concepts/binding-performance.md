@@ -1,17 +1,16 @@
 ---
-id: angularjs.binding_performance
-type: concept
+type: Concept
 title: Binding Performance
-description: Performance cost of watch strategies, expression re-evaluation, and binding patterns in large templates.
+description: "Performance cost of watch strategies, expression re-evaluation, and binding patterns in large templates."
 tags: [angularjs, performance, binding, watchers]
 prerequisites:
-  - angularjs.binding_propagation
-  - angularjs.watchers
+  - concepts/binding-propagation
+  - concepts/watchers
 related:
-  - angularjs.watcher_explosion
-  - angularjs.optimization_strategies
-  - angularjs.dirty_checking
-resource: https://docs.angularjs.org/guide/scope#scope-life-cycle
+  - concepts/watcher-explosion
+  - concepts/optimization-strategies
+  - concepts/dirty-checking
+resource: "https://docs.angularjs.org/guide/scope#scope-life-cycle"
 timestamp: 2026-01-01
 ---
 

@@ -1,17 +1,16 @@
 ---
-id: angularjs.scope_inheritance
-type: concept
+type: Concept
 title: Scope Inheritance
-description: Child scopes prototypally inherit from parent scopes; property reads traverse the chain, writes may shadow on the child.
+description: "Child scopes prototypally inherit from parent scopes; property reads traverse the chain, writes may shadow on the child."
 tags: [angularjs, scope, inheritance, prototypal]
 prerequisites:
-  - angularjs.scope
-  - angularjs.controller_scope_model
+  - concepts/scope
+  - concepts/controller-scope-model
 related:
-  - angularjs.isolate_scope
-  - angularjs.binding_propagation
-  - angularjs.ng_model
-resource: https://docs.angularjs.org/guide/scope#scope-hierarchy
+  - concepts/isolate-scope
+  - concepts/binding-propagation
+  - concepts/ng-model
+resource: "https://docs.angularjs.org/guide/scope#scope-hierarchy"
 timestamp: 2026-01-01
 ---
 

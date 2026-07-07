@@ -1,18 +1,17 @@
 ---
-id: angularjs.service_vs_controller_layer
-type: concept
+type: Concept
 title: Service vs Controller Layer
-description: Fat services and thin controllers—controllers expose view state; services encapsulate reusable domain and integration logic.
+description: "Fat services and thin controllers—controllers expose view state; services encapsulate reusable domain and integration logic."
 tags: [angularjs, architecture, controllers, services]
 prerequisites:
-  - angularjs.separation_of_concerns
-  - angularjs.services
-  - angularjs.controller_scope_model
+  - concepts/separation-of-concerns
+  - concepts/services
+  - concepts/controller-scope-model
 related:
-  - angularjs.singleton_behavior
-  - angularjs.mvc_model
-  - angularjs.controller_as_syntax
-resource: https://docs.angularjs.org/guide/controller
+  - concepts/singleton-behavior
+  - concepts/mvc-model
+  - concepts/controller-as-syntax
+resource: "https://docs.angularjs.org/guide/controller"
 timestamp: 2026-01-01
 ---
 

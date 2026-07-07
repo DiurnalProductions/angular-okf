@@ -1,16 +1,15 @@
 ---
-id: angularjs.interpolation
-type: concept
+type: Concept
 title: Interpolation
 description: Double-mustache bindings compile into watcher-backed text node updates synchronized during digest.
 tags: [angularjs, interpolation, templates, binding]
 prerequisites:
-  - angularjs.expressions
+  - concepts/expressions
 related:
-  - angularjs.template_compilation
-  - angularjs.two_way_binding
-  - angularjs.optimization_strategies
-resource: https://docs.angularjs.org/api/ng/service/$interpolate
+  - concepts/template-compilation
+  - concepts/two-way-binding
+  - concepts/optimization-strategies
+resource: "https://docs.angularjs.org/api/ng/service/$interpolate"
 timestamp: 2026-01-01
 ---
 

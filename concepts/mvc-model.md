@@ -1,17 +1,16 @@
 ---
-id: angularjs.mvc_model
-type: concept
+type: Concept
 title: MVC-ish Model
-description: AngularJS organizes SPAs into views (templates), controllers (presentation logic), and services (domain and data access).
+description: "AngularJS organizes SPAs into views (templates), controllers (presentation logic), and services (domain and data access)."
 tags: [angularjs, architecture, mvc, spa]
 prerequisites:
-  - angularjs.controller_scope_model
-  - angularjs.services
+  - concepts/controller-scope-model
+  - concepts/services
 related:
-  - angularjs.separation_of_concerns
-  - angularjs.service_vs_controller_layer
-  - angularjs.directive_definition_object
-resource: https://docs.angularjs.org/guide/concepts
+  - concepts/separation-of-concerns
+  - concepts/service-vs-controller-layer
+  - concepts/directive-definition-object
+resource: "https://docs.angularjs.org/guide/concepts"
 timestamp: 2026-01-01
 ---
 

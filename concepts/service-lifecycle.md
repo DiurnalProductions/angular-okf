@@ -1,17 +1,16 @@
 ---
-id: angularjs.service_lifecycle
-type: concept
+type: Concept
 title: Service Lifecycle
 description: Injectable instances are created lazily on first injection and persist for the lifetime of the injector.
 tags: [angularjs, services, lifecycle, di]
 prerequisites:
-  - angularjs.services
-  - angularjs.dependency_injection_container
+  - concepts/services
+  - concepts/dependency-injection-container
 related:
-  - angularjs.singleton_behavior
-  - angularjs.config_runtime_phases
-  - angularjs.controller_scope_model
-resource: https://docs.angularjs.org/guide/services
+  - concepts/singleton-behavior
+  - concepts/config-runtime-phases
+  - concepts/controller-scope-model
+resource: "https://docs.angularjs.org/guide/services"
 timestamp: 2026-01-01
 ---
 

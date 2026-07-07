@@ -1,16 +1,15 @@
 ---
-id: angularjs.singleton_behavior
-type: concept
+type: Concept
 title: Singleton Behavior
-description: Each service, factory, or value registration yields one shared instance per injector for the application lifetime.
+description: "Each service, factory, or value registration yields one shared instance per injector for the application lifetime."
 tags: [angularjs, singleton, services, di]
 prerequisites:
-  - angularjs.service_lifecycle
+  - concepts/service-lifecycle
 related:
-  - angularjs.services
-  - angularjs.factories
-  - angularjs.service_vs_controller_layer
-resource: https://docs.angularjs.org/guide/services
+  - concepts/services
+  - concepts/factories
+  - concepts/service-vs-controller-layer
+resource: "https://docs.angularjs.org/guide/services"
 timestamp: 2026-01-01
 ---
 

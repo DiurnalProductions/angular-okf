@@ -1,15 +1,14 @@
 ---
-id: angularjs.values_constants
-type: concept
+type: Concept
 title: Values and Constants
-description: value() and constant() register pre-built instances; constants are available during the config phase.
+description: "value() and constant() register pre-built instances; constants are available during the config phase."
 tags: [angularjs, values, constants, di, modules]
 prerequisites:
-  - angularjs.providers
+  - concepts/providers
 related:
-  - angularjs.config_runtime_phases
-  - angularjs.dependency_injection_container
-resource: https://docs.angularjs.org/api/ng/service/$provide
+  - concepts/config-runtime-phases
+  - concepts/dependency-injection-container
+resource: "https://docs.angularjs.org/api/ng/service/$provide"
 timestamp: 2026-01-01
 ---
 

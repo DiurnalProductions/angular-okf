@@ -1,17 +1,16 @@
 ---
-id: angularjs.transclusion
-type: concept
+type: Concept
 title: Transclusion
-description: Captures original directive content and projects it into the directive template, preserving scope context options.
+description: "Captures original directive content and projects it into the directive template, preserving scope context options."
 tags: [angularjs, directives, transclusion, dom]
 prerequisites:
-  - angularjs.directive_definition_object
-  - angularjs.linking_functions
+  - concepts/directive-definition-object
+  - concepts/linking-functions
 related:
-  - angularjs.isolate_scope
-  - angularjs.compile_vs_link
-  - angularjs.template_compilation
-resource: https://docs.angularjs.org/guide/transclusion
+  - concepts/isolate-scope
+  - concepts/compile-vs-link
+  - concepts/template-compilation
+resource: "https://docs.angularjs.org/guide/transclusion"
 timestamp: 2026-01-01
 ---
 

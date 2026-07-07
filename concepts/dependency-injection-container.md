@@ -1,17 +1,16 @@
 ---
-id: angularjs.dependency_injection_container
-type: concept
+type: Concept
 title: Dependency Injection Container
-description: The $injector built at bootstrap resolves tokens to instances using module recipes and annotation metadata.
+description: "The $injector built at bootstrap resolves tokens to instances using module recipes and annotation metadata."
 tags: [angularjs, di, injector, modules]
 prerequisites:
-  - angularjs.angular_module
-  - angularjs.providers
+  - concepts/angular-module
+  - concepts/providers
 related:
-  - angularjs.injection_resolution
-  - angularjs.circular_dependency_handling
-  - angularjs.service_lifecycle
-resource: https://docs.angularjs.org/guide/di
+  - concepts/injection-resolution
+  - concepts/circular-dependency-handling
+  - concepts/service-lifecycle
+resource: "https://docs.angularjs.org/guide/di"
 timestamp: 2026-01-01
 ---
 

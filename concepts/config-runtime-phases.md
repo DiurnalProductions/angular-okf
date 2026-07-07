@@ -1,16 +1,15 @@
 ---
-id: angularjs.config_runtime_phases
-type: concept
+type: Concept
 title: Config vs Runtime Phases
-description: Two bootstrap phases—config registers providers; run executes after injection is ready and DOM is compiled.
+description: "Two bootstrap phases—config registers providers; run executes after injection is ready and DOM is compiled."
 tags: [angularjs, modules, bootstrap, di]
 prerequisites:
-  - angularjs.angular_module
+  - concepts/angular-module
 related:
-  - angularjs.providers
-  - angularjs.dependency_injection_container
-  - angularjs.service_lifecycle
-resource: https://docs.angularjs.org/guide/module#module-loading-dependencies
+  - concepts/providers
+  - concepts/dependency-injection-container
+  - concepts/service-lifecycle
+resource: "https://docs.angularjs.org/guide/module#module-loading-dependencies"
 timestamp: 2026-01-01
 ---
 

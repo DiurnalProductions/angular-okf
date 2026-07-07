@@ -1,15 +1,14 @@
 ---
-id: angularjs.q_promises
-type: concept
-title: $q Promises
-description: AngularJS promise implementation integrated with digest via $evalAsync and then/finally callbacks wrapped in $apply.
+type: Concept
+title: "$q Promises"
+description: "AngularJS promise implementation integrated with digest via $evalAsync and then/finally callbacks wrapped in $apply."
 tags: [angularjs, promises, async, q]
 prerequisites:
-  - angularjs.digest_cycle
+  - concepts/digest-cycle
 related:
-  - angularjs.http_service
-  - angularjs.async_digest_integration
-resource: https://docs.angularjs.org/api/ng/service/$q
+  - concepts/http-service
+  - concepts/async-digest-integration
+resource: "https://docs.angularjs.org/api/ng/service/$q"
 timestamp: 2026-01-01
 ---
 

@@ -1,17 +1,16 @@
 ---
-id: angularjs.watchers
-type: concept
+type: Concept
 title: Watchers
 description: Functions registered on scopes that compare old and new expression values during each digest pass.
 tags: [angularjs, watchers, reactivity, core]
 prerequisites:
-  - angularjs.scope
+  - concepts/scope
 related:
-  - angularjs.dirty_checking
-  - angularjs.digest_cycle
-  - angularjs.two_way_binding
-  - angularjs.watcher_explosion
-resource: https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+  - concepts/dirty-checking
+  - concepts/digest-cycle
+  - concepts/two-way-binding
+  - concepts/watcher-explosion
+resource: "https://docs.angularjs.org/api/ng/type/$rootScope.Scope"
 timestamp: 2026-01-01
 ---
 

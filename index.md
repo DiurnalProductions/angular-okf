@@ -1,3 +1,12 @@
+---
+okf_version: "0.1"
+id: angular-okf
+name: AngularJS (1.x) Knowledge Pack
+version: "0.1"
+description: "OKF knowledge base for AngularJS 1.x (digest cycle, scopes, directives, dependency injection, services, controllers)"
+tags: [angular, javascript, spa, legacy, frontend]
+---
+
 # AngularJS (1.x) Knowledge Pack
 
 AngularJS is a declarative SPA framework built on scopes, dirty checking, and a digest cycle that synchronizes model and DOM.

@@ -1,16 +1,15 @@
 ---
-id: angularjs.optimization_strategies
-type: concept
+type: Concept
 title: Optimization Strategies
-description: Techniques to reduce digest work including one-time binding, track by, bind once directives, and manual $digest control.
+description: "Techniques to reduce digest work including one-time binding, track by, bind once directives, and manual $digest control."
 tags: [angularjs, performance, optimization, binding]
 prerequisites:
-  - angularjs.digest_cost
+  - concepts/digest-cost
 related:
-  - angularjs.watcher_explosion
-  - angularjs.binding_performance
-  - angularjs.interpolation
-resource: https://docs.angularjs.org/guide/one-time-bindings
+  - concepts/watcher-explosion
+  - concepts/binding-performance
+  - concepts/interpolation
+resource: "https://docs.angularjs.org/guide/one-time-bindings"
 timestamp: 2026-01-01
 ---
 

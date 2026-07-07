@@ -1,17 +1,16 @@
 ---
-id: angularjs.watcher_explosion
-type: concept
+type: Concept
 title: Watcher Explosion
-description: Uncontrolled growth of $watch registrations from bindings, ng-repeat, and directives causing digest slowdown.
+description: "Uncontrolled growth of $watch registrations from bindings, ng-repeat, and directives causing digest slowdown."
 tags: [angularjs, performance, watchers, digest]
 prerequisites:
-  - angularjs.watchers
-  - angularjs.binding_performance
+  - concepts/watchers
+  - concepts/binding-performance
 related:
-  - angularjs.digest_cost
-  - angularjs.optimization_strategies
-  - angularjs.ng_model
-resource: https://docs.angularjs.org/guide/scope
+  - concepts/digest-cost
+  - concepts/optimization-strategies
+  - concepts/ng-model
+resource: "https://docs.angularjs.org/guide/scope"
 timestamp: 2026-01-01
 ---
 

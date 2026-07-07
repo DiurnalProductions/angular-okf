@@ -1,17 +1,16 @@
 ---
-id: angularjs.services
-type: concept
+type: Concept
 title: Services
-description: service() recipe registers a constructor function; AngularJS instantiates it with new and caches the result as a singleton.
+description: "service() recipe registers a constructor function; AngularJS instantiates it with new and caches the result as a singleton."
 tags: [angularjs, services, di, singleton]
 prerequisites:
-  - angularjs.providers
+  - concepts/providers
 related:
-  - angularjs.factories
-  - angularjs.singleton_behavior
-  - angularjs.service_lifecycle
-  - angularjs.service_vs_controller_layer
-resource: https://docs.angularjs.org/guide/services
+  - concepts/factories
+  - concepts/singleton-behavior
+  - concepts/service-lifecycle
+  - concepts/service-vs-controller-layer
+resource: "https://docs.angularjs.org/guide/services"
 timestamp: 2026-01-01
 ---
 

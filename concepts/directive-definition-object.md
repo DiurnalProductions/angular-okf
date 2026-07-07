@@ -1,17 +1,16 @@
 ---
-id: angularjs.directive_definition_object
-type: concept
+type: Concept
 title: Directive Definition Object
-description: Configuration object returned by directive factories defining restrict, template, scope, compile, link, and controller behavior.
+description: "Configuration object returned by directive factories defining restrict, template, scope, compile, link, and controller behavior."
 tags: [angularjs, directives, ddo, compile]
 prerequisites:
-  - angularjs.scope
+  - concepts/scope
 related:
-  - angularjs.compile_vs_link
-  - angularjs.linking_functions
-  - angularjs.isolate_scope
-  - angularjs.transclusion
-resource: https://docs.angularjs.org/guide/directive
+  - concepts/compile-vs-link
+  - concepts/linking-functions
+  - concepts/isolate-scope
+  - concepts/transclusion
+resource: "https://docs.angularjs.org/guide/directive"
 timestamp: 2026-01-01
 ---
 

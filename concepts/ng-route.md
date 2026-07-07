@@ -1,16 +1,15 @@
 ---
-id: angularjs.ng_route
-type: concept
+type: Concept
 title: ngRoute
-description: Core routing module with $routeProvider for mapping URLs to templates, controllers, and resolve dependencies.
+description: "Core routing module with $routeProvider for mapping URLs to templates, controllers, and resolve dependencies."
 tags: [angularjs, routing, ngroute, spa]
 prerequisites:
-  - angularjs.angular_module
+  - concepts/angular-module
 related:
-  - angularjs.spa_routing_model
-  - angularjs.view_swapping
-  - angularjs.config_runtime_phases
-resource: https://docs.angularjs.org/api/ngRoute
+  - concepts/spa-routing-model
+  - concepts/view-swapping
+  - concepts/config-runtime-phases
+resource: "https://docs.angularjs.org/api/ngRoute"
 timestamp: 2026-01-01
 ---
 

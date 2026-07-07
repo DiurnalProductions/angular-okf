@@ -1,17 +1,16 @@
 ---
-id: angularjs.two_way_binding
-type: concept
+type: Concept
 title: Two-Way Binding
 description: Synchronization between model and view through paired watchers that propagate changes in both directions during digest.
 tags: [angularjs, binding, two-way, watchers]
 prerequisites:
-  - angularjs.watchers
-  - angularjs.digest_cycle
+  - concepts/watchers
+  - concepts/digest-cycle
 related:
-  - angularjs.ng_model
-  - angularjs.binding_propagation
-  - angularjs.isolate_scope
-resource: https://docs.angularjs.org/tutorial/step_04
+  - concepts/ng-model
+  - concepts/binding-propagation
+  - concepts/isolate-scope
+resource: "https://docs.angularjs.org/tutorial/step_04"
 timestamp: 2026-01-01
 ---
 

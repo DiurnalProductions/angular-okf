@@ -1,17 +1,16 @@
 ---
-id: angularjs.isolate_scope
-type: concept
+type: Concept
 title: Isolate Scope
-description: Directive-local scope with explicit one-way, two-way, and expression bindings decoupled from parent inheritance.
+description: "Directive-local scope with explicit one-way, two-way, and expression bindings decoupled from parent inheritance."
 tags: [angularjs, directives, isolate-scope, binding]
 prerequisites:
-  - angularjs.scope
-  - angularjs.directive_definition_object
+  - concepts/scope
+  - concepts/directive-definition-object
 related:
-  - angularjs.scope_inheritance
-  - angularjs.two_way_binding
-  - angularjs.transclusion
-resource: https://docs.angularjs.org/guide/directive#isolating-the-scope-of-a-directive
+  - concepts/scope-inheritance
+  - concepts/two-way-binding
+  - concepts/transclusion
+resource: "https://docs.angularjs.org/guide/directive#isolating-the-scope-of-a-directive"
 timestamp: 2026-01-01
 ---
 

@@ -1,16 +1,15 @@
 ---
-id: angularjs.separation_of_concerns
-type: concept
+type: Concept
 title: Separation of Concerns
-description: Legacy AngularJS best practice of keeping DOM in directives, state in services, and controllers as thin presentation adapters.
+description: "Legacy AngularJS best practice of keeping DOM in directives, state in services, and controllers as thin presentation adapters."
 tags: [angularjs, architecture, soc, patterns]
 prerequisites:
-  - angularjs.mvc_model
+  - concepts/mvc-model
 related:
-  - angularjs.service_vs_controller_layer
-  - angularjs.directive_definition_object
-  - angularjs.controller_scope_model
-resource: https://docs.angularjs.org/guide/concepts
+  - concepts/service-vs-controller-layer
+  - concepts/directive-definition-object
+  - concepts/controller-scope-model
+resource: "https://docs.angularjs.org/guide/concepts"
 timestamp: 2026-01-01
 ---
 

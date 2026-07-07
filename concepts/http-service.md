@@ -1,16 +1,15 @@
 ---
-id: angularjs.http_service
-type: concept
-title: $http Service
-description: XHR and JSONP wrapper returning promise-like responses with interceptors, transforms, and $q integration.
+type: Concept
+title: "$http Service"
+description: "XHR and JSONP wrapper returning promise-like responses with interceptors, transforms, and $q integration."
 tags: [angularjs, http, async, xhr]
 prerequisites:
-  - angularjs.q_promises
+  - concepts/q-promises
 related:
-  - angularjs.async_digest_integration
-  - angularjs.services
-  - angularjs.config_runtime_phases
-resource: https://docs.angularjs.org/api/ng/service/$http
+  - concepts/async-digest-integration
+  - concepts/services
+  - concepts/config-runtime-phases
+resource: "https://docs.angularjs.org/api/ng/service/$http"
 timestamp: 2026-01-01
 ---
 

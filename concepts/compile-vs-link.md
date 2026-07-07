@@ -1,16 +1,15 @@
 ---
-id: angularjs.compile_vs_link
-type: concept
+type: Concept
 title: Compile vs Link Phase
-description: Compile transforms template DOM once; link binds a specific scope instance to each compiled node.
+description: "Compile transforms template DOM once; link binds a specific scope instance to each compiled node."
 tags: [angularjs, compile, link, directives]
 prerequisites:
-  - angularjs.template_compilation
+  - concepts/template-compilation
 related:
-  - angularjs.linking_functions
-  - angularjs.directive_definition_object
-  - angularjs.dom_linking
-resource: https://docs.angularjs.org/guide/compilation
+  - concepts/linking-functions
+  - concepts/directive-definition-object
+  - concepts/dom-linking
+resource: "https://docs.angularjs.org/guide/compilation"
 timestamp: 2026-01-01
 ---
 

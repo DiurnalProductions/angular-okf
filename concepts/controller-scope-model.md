@@ -1,17 +1,16 @@
 ---
-id: angularjs.controller_scope_model
-type: concept
+type: Concept
 title: Controller Scope Model
-description: Controllers attach presentation logic to a scope; AngularJS instantiates them when ng-controller or route resolves.
+description: "Controllers attach presentation logic to a scope; AngularJS instantiates them when ng-controller or route resolves."
 tags: [angularjs, controllers, scope, mvc]
 prerequisites:
-  - angularjs.scope
+  - concepts/scope
 related:
-  - angularjs.scope_inheritance
-  - angularjs.controller_as_syntax
-  - angularjs.mvc_model
-  - angularjs.service_vs_controller_layer
-resource: https://docs.angularjs.org/guide/controller
+  - concepts/scope-inheritance
+  - concepts/controller-as-syntax
+  - concepts/mvc-model
+  - concepts/service-vs-controller-layer
+resource: "https://docs.angularjs.org/guide/controller"
 timestamp: 2026-01-01
 ---
 

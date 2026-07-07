@@ -1,16 +1,15 @@
 ---
-id: angularjs.ng_model
-type: concept
+type: Concept
 title: ng-model
-description: Directive connecting form controls to scope properties via $setViewValue, $render, parsers, and formatters pipeline.
+description: "Directive connecting form controls to scope properties via $setViewValue, $render, parsers, and formatters pipeline."
 tags: [angularjs, ng-model, forms, binding]
 prerequisites:
-  - angularjs.two_way_binding
+  - concepts/two-way-binding
 related:
-  - angularjs.binding_propagation
-  - angularjs.scope_inheritance
-  - angularjs.directive_definition_object
-resource: https://docs.angularjs.org/api/ng/directive/ngModel
+  - concepts/binding-propagation
+  - concepts/scope-inheritance
+  - concepts/directive-definition-object
+resource: "https://docs.angularjs.org/api/ng/directive/ngModel"
 timestamp: 2026-01-01
 ---
 

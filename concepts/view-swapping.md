@@ -1,17 +1,16 @@
 ---
-id: angularjs.view_swapping
-type: concept
+type: Concept
 title: View Swapping
-description: ng-view destroys the previous route scope and DOM, then compiles and links the new route template and controller.
+description: "ng-view destroys the previous route scope and DOM, then compiles and links the new route template and controller."
 tags: [angularjs, routing, ng-view, dom]
 prerequisites:
-  - angularjs.spa_routing_model
-  - angularjs.template_compilation
+  - concepts/spa-routing-model
+  - concepts/template-compilation
 related:
-  - angularjs.dom_linking
-  - angularjs.controller_scope_model
-  - angularjs.ng_route
-resource: https://docs.angularjs.org/api/ngRoute/directive/ngView
+  - concepts/dom-linking
+  - concepts/controller-scope-model
+  - concepts/ng-route
+resource: "https://docs.angularjs.org/api/ngRoute/directive/ngView"
 timestamp: 2026-01-01
 ---
 

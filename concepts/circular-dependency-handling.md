@@ -1,16 +1,15 @@
 ---
-id: angularjs.circular_dependency_handling
-type: concept
+type: Concept
 title: Circular Dependency Handling
-description: Strategies for breaking circular DI chains that cause $injector:unpr or $injector:cdep errors at bootstrap or instantiation.
+description: "Strategies for breaking circular DI chains that cause $injector:unpr or $injector:cdep errors at bootstrap or instantiation."
 tags: [angularjs, di, circular-dependency, debugging]
 prerequisites:
-  - angularjs.injection_resolution
+  - concepts/injection-resolution
 related:
-  - angularjs.dependency_injection_container
-  - angularjs.services
-  - angularjs.factories
-resource: https://docs.angularjs.org/error/$injector/unpr
+  - concepts/dependency-injection-container
+  - concepts/services
+  - concepts/factories
+resource: "https://docs.angularjs.org/error/$injector/unpr"
 timestamp: 2026-01-01
 ---
 

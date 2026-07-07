@@ -1,16 +1,15 @@
 ---
-id: angularjs.factories
-type: concept
+type: Concept
 title: Factories
 description: factory() recipe registers a function whose return value becomes the injectable singleton instance.
 tags: [angularjs, factories, di, services]
 prerequisites:
-  - angularjs.providers
+  - concepts/providers
 related:
-  - angularjs.services
-  - angularjs.singleton_behavior
-  - angularjs.service_lifecycle
-resource: https://docs.angularjs.org/api/ng/service/$provide
+  - concepts/services
+  - concepts/singleton-behavior
+  - concepts/service-lifecycle
+resource: "https://docs.angularjs.org/api/ng/service/$provide"
 timestamp: 2026-01-01
 ---
 

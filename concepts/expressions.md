@@ -1,16 +1,15 @@
 ---
-id: angularjs.expressions
-type: concept
+type: Concept
 title: Expressions
-description: JavaScript-like snippets evaluated against scope during interpolation, binding, and $watch registration.
+description: "JavaScript-like snippets evaluated against scope during interpolation, binding, and $watch registration."
 tags: [angularjs, expressions, templates, scope]
 prerequisites:
-  - angularjs.scope
+  - concepts/scope
 related:
-  - angularjs.interpolation
-  - angularjs.template_compilation
-  - angularjs.two_way_binding
-resource: https://docs.angularjs.org/guide/expression
+  - concepts/interpolation
+  - concepts/template-compilation
+  - concepts/two-way-binding
+resource: "https://docs.angularjs.org/guide/expression"
 timestamp: 2026-01-01
 ---
 

@@ -1,18 +1,17 @@
 ---
-id: angularjs.digest_cycle
-type: concept
+type: Concept
 title: Digest Cycle
-description: The $digest and $apply loop that runs watchers and synchronizes scope state with the DOM until no further changes occur.
+description: "The $digest and $apply loop that runs watchers and synchronizes scope state with the DOM until no further changes occur."
 tags: [angularjs, digest, runtime, core]
 prerequisites:
-  - angularjs.dirty_checking
-  - angularjs.watchers
+  - concepts/dirty-checking
+  - concepts/watchers
 related:
-  - angularjs.async_digest_integration
-  - angularjs.binding_propagation
-  - angularjs.digest_cost
-  - angularjs.q_promises
-resource: https://docs.angularjs.org/guide/scope#scope-life-cycle
+  - concepts/async-digest-integration
+  - concepts/binding-propagation
+  - concepts/digest-cost
+  - concepts/q-promises
+resource: "https://docs.angularjs.org/guide/scope#scope-life-cycle"
 timestamp: 2026-01-01
 ---
 

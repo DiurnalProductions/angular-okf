@@ -1,16 +1,15 @@
 ---
-id: angularjs.dirty_checking
-type: concept
+type: Concept
 title: Dirty Checking
 description: Compare-old-vs-new strategy AngularJS uses to detect model changes instead of observable or proxy-based reactivity.
 tags: [angularjs, dirty-checking, runtime, core]
 prerequisites:
-  - angularjs.watchers
+  - concepts/watchers
 related:
-  - angularjs.digest_cycle
-  - angularjs.two_way_binding
-  - angularjs.binding_performance
-resource: https://docs.angularjs.org/guide/expression
+  - concepts/digest-cycle
+  - concepts/two-way-binding
+  - concepts/binding-performance
+resource: "https://docs.angularjs.org/guide/expression"
 timestamp: 2026-01-01
 ---
 

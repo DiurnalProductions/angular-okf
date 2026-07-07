@@ -1,17 +1,16 @@
 ---
-id: angularjs.digest_cost
-type: concept
+type: Concept
 title: Digest Cost
-description: Computational cost of $digest grows with watcher count and number of stabilization passes until TTL limit.
+description: "Computational cost of $digest grows with watcher count and number of stabilization passes until TTL limit."
 tags: [angularjs, performance, digest, runtime]
 prerequisites:
-  - angularjs.digest_cycle
-  - angularjs.watcher_explosion
+  - concepts/digest-cycle
+  - concepts/watcher-explosion
 related:
-  - angularjs.optimization_strategies
-  - angularjs.binding_performance
-  - angularjs.dirty_checking
-resource: https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+  - concepts/optimization-strategies
+  - concepts/binding-performance
+  - concepts/dirty-checking
+resource: "https://docs.angularjs.org/api/ng/type/$rootScope.Scope"
 timestamp: 2026-01-01
 ---
 

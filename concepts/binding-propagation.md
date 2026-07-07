@@ -1,17 +1,16 @@
 ---
-id: angularjs.binding_propagation
-type: concept
+type: Concept
 title: Binding Propagation
-description: How a single scope mutation ripples through watchers on parent, child, and sibling scopes during digest passes.
+description: "How a single scope mutation ripples through watchers on parent, child, and sibling scopes during digest passes."
 tags: [angularjs, binding, digest, propagation]
 prerequisites:
-  - angularjs.two_way_binding
-  - angularjs.digest_cycle
+  - concepts/two-way-binding
+  - concepts/digest-cycle
 related:
-  - angularjs.scope_inheritance
-  - angularjs.binding_performance
-  - angularjs.watchers
-resource: https://docs.angularjs.org/guide/scope
+  - concepts/scope-inheritance
+  - concepts/binding-performance
+  - concepts/watchers
+resource: "https://docs.angularjs.org/guide/scope"
 timestamp: 2026-01-01
 ---
 

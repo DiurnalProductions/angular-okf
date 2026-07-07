@@ -1,17 +1,16 @@
 ---
-id: angularjs.dom_linking
-type: concept
+type: Concept
 title: DOM Linking
-description: Applying compiled linking functions to live DOM nodes, associating scopes and triggering initial digest synchronization.
+description: "Applying compiled linking functions to live DOM nodes, associating scopes and triggering initial digest synchronization."
 tags: [angularjs, dom, compile, link]
 prerequisites:
-  - angularjs.template_compilation
-  - angularjs.linking_functions
+  - concepts/template-compilation
+  - concepts/linking-functions
 related:
-  - angularjs.compile_vs_link
-  - angularjs.directive_definition_object
-  - angularjs.view_swapping
-resource: https://docs.angularjs.org/api/ng/service/$compile
+  - concepts/compile-vs-link
+  - concepts/directive-definition-object
+  - concepts/view-swapping
+resource: "https://docs.angularjs.org/api/ng/service/$compile"
 timestamp: 2026-01-01
 ---
 

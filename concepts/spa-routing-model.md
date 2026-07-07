@@ -1,15 +1,14 @@
 ---
-id: angularjs.spa_routing_model
-type: concept
+type: Concept
 title: SPA Routing Model
-description: Single-page navigation using $location to change views without full page reload via hash or HTML5 history API.
+description: "Single-page navigation using $location to change views without full page reload via hash or HTML5 history API."
 tags: [angularjs, routing, spa, location]
 prerequisites:
-  - angularjs.ng_route
+  - concepts/ng-route
 related:
-  - angularjs.view_swapping
-  - angularjs.controller_scope_model
-resource: https://docs.angularjs.org/guide/$location
+  - concepts/view-swapping
+  - concepts/controller-scope-model
+resource: "https://docs.angularjs.org/guide/$location"
 timestamp: 2026-01-01
 ---
 

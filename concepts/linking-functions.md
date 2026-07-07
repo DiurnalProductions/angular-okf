@@ -1,17 +1,16 @@
 ---
-id: angularjs.linking_functions
-type: concept
+type: Concept
 title: Linking Functions
-description: Pre and post link functions connect a scope instance to compiled DOM, registering watchers and event handlers.
+description: "Pre and post link functions connect a scope instance to compiled DOM, registering watchers and event handlers."
 tags: [angularjs, link, directives, dom]
 prerequisites:
-  - angularjs.compile_vs_link
-  - angularjs.directive_definition_object
+  - concepts/compile-vs-link
+  - concepts/directive-definition-object
 related:
-  - angularjs.dom_linking
-  - angularjs.transclusion
-  - angularjs.ng_model
-resource: https://docs.angularjs.org/api/ng/service/$compile
+  - concepts/dom-linking
+  - concepts/transclusion
+  - concepts/ng-model
+resource: "https://docs.angularjs.org/api/ng/service/$compile"
 timestamp: 2026-01-01
 ---
 

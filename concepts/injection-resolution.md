@@ -1,16 +1,15 @@
 ---
-id: angularjs.injection_resolution
-type: concept
+type: Concept
 title: Injection Resolution
-description: How $injector resolves token names to provider instances across the module dependency graph.
+description: "How $injector resolves token names to provider instances across the module dependency graph."
 tags: [angularjs, di, injector, resolution]
 prerequisites:
-  - angularjs.dependency_injection_container
+  - concepts/dependency-injection-container
 related:
-  - angularjs.circular_dependency_handling
-  - angularjs.providers
-  - angularjs.services
-resource: https://docs.angularjs.org/api/auto/service/$injector
+  - concepts/circular-dependency-handling
+  - concepts/providers
+  - concepts/services
+resource: "https://docs.angularjs.org/api/auto/service/$injector"
 timestamp: 2026-01-01
 ---
 

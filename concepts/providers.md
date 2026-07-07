@@ -1,18 +1,17 @@
 ---
-id: angularjs.providers
-type: concept
+type: Concept
 title: Providers
-description: The foundational $provide recipe type; all service, factory, and value registrations ultimately define a provider with $get.
+description: "The foundational $provide recipe type; all service, factory, and value registrations ultimately define a provider with $get."
 tags: [angularjs, providers, di, modules]
 prerequisites:
-  - angularjs.angular_module
-  - angularjs.config_runtime_phases
+  - concepts/angular-module
+  - concepts/config-runtime-phases
 related:
-  - angularjs.services
-  - angularjs.factories
-  - angularjs.values_constants
-  - angularjs.dependency_injection_container
-resource: https://docs.angularjs.org/api/auto/service/$provide
+  - concepts/services
+  - concepts/factories
+  - concepts/values-constants
+  - concepts/dependency-injection-container
+resource: "https://docs.angularjs.org/api/auto/service/$provide"
 timestamp: 2026-01-01
 ---
 

@@ -1,16 +1,15 @@
 ---
-id: angularjs.controller_as_syntax
-type: concept
+type: Concept
 title: Controller As Syntax
-description: controllerAs alias pattern attaches the controller instance to scope as vm, reducing $scope property proliferation.
+description: "controllerAs alias pattern attaches the controller instance to scope as vm, reducing $scope property proliferation."
 tags: [angularjs, controllers, controller-as, legacy]
 prerequisites:
-  - angularjs.controller_scope_model
+  - concepts/controller-scope-model
 related:
-  - angularjs.scope_inheritance
-  - angularjs.mvc_model
-  - angularjs.service_vs_controller_layer
-resource: https://docs.angularjs.org/api/ng/directive/ngController
+  - concepts/scope-inheritance
+  - concepts/mvc-model
+  - concepts/service-vs-controller-layer
+resource: "https://docs.angularjs.org/api/ng/directive/ngController"
 timestamp: 2026-01-01
 ---
 

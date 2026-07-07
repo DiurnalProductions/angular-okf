@@ -1,16 +1,14 @@
 ---
-id: angularjs.scope
-type: concept
+type: Concept
 title: Scope
-description: Hierarchical context object that holds model data, hosts watchers, and participates in digest propagation.
+description: "Hierarchical context object that holds model data, hosts watchers, and participates in digest propagation."
 tags: [angularjs, scope, runtime, core]
-prerequisites: []
 related:
-  - angularjs.watchers
-  - angularjs.expressions
-  - angularjs.controller_scope_model
-  - angularjs.scope_inheritance
-resource: https://docs.angularjs.org/guide/scope
+  - concepts/watchers
+  - concepts/expressions
+  - concepts/controller-scope-model
+  - concepts/scope-inheritance
+resource: "https://docs.angularjs.org/guide/scope"
 timestamp: 2026-01-01
 ---
 

@@ -1,16 +1,14 @@
 ---
-id: angularjs.angular_module
-type: concept
+type: Concept
 title: angular.module
-description: Module registry and composition root that defines injectable recipes, config blocks, and run blocks for an AngularJS application.
+description: "Module registry and composition root that defines injectable recipes, config blocks, and run blocks for an AngularJS application."
 tags: [angularjs, modules, di, architecture]
-prerequisites: []
 related:
-  - angularjs.config_runtime_phases
-  - angularjs.providers
-  - angularjs.dependency_injection_container
-  - angularjs.ng_route
-resource: https://docs.angularjs.org/guide/module
+  - concepts/config-runtime-phases
+  - concepts/providers
+  - concepts/dependency-injection-container
+  - concepts/ng-route
+resource: "https://docs.angularjs.org/guide/module"
 timestamp: 2026-01-01
 ---
 
